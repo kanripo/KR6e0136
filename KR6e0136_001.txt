@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-09-28 22:58:46.951725
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 16:51
 #+TITLE: 註同教問答
 #+PROPERTY: CBETA_ID X58n1017
 #+PROPERTY: ID KR6e0136
